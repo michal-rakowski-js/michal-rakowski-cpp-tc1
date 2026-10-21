@@ -2,5 +2,5 @@
 *.pdb
 *.obj
 *.exe
-.gitignore/
 *.ilk
+*.gitignore
